@@ -1,0 +1,8 @@
+const verify_vue_vue_type_style_index_0_scoped_f6a0ed3c_lang = "ol[data-v-f6a0ed3c],ul[data-v-f6a0ed3c]{margin:0!important;padding:0!important}ol li[data-v-f6a0ed3c],ul li[data-v-f6a0ed3c]{list-style:none}a[data-v-f6a0ed3c]{text-decoration:none}a[data-v-f6a0ed3c],body[data-v-f6a0ed3c]{color:#fff}body[data-v-f6a0ed3c]{background:#000!important;min-height:100vh!important;overflow-x:hidden;width:100vw}body #__nuxt[data-v-f6a0ed3c]{height:100%}button[data-v-f6a0ed3c]{background:none;border:none;outline:none}input[data-v-f6a0ed3c]::-webkit-inner-spin-button,input[data-v-f6a0ed3c]::-webkit-outer-spin-button{-webkit-appearance:none;margin:0}input[type=number][data-v-f6a0ed3c]{-moz-appearance:textfield}.verify_page .background_iamge[data-v-f6a0ed3c]{bottom:0;opacity:.7;position:absolute;right:0;transform:translateX(20%);z-index:-1}@media screen and (max-width:1200px){.verify_page .background_iamge[data-v-f6a0ed3c]{display:none}}";
+
+const verify_vue_vue_type_style_index_1_lang = "ol,ul{margin:0!important;padding:0!important}ol li,ul li{list-style:none}a{text-decoration:none}a,body{color:#fff}body{background:#000!important;min-height:100vh!important;overflow-x:hidden;width:100vw}body #__nuxt{height:100%}button{background:none;border:none;outline:none}input::-webkit-inner-spin-button,input::-webkit-outer-spin-button{-webkit-appearance:none;margin:0}input[type=number]{-moz-appearance:textfield}.span_btn{background:inherit;border:none}.btn_disabled{color:gray!important}";
+
+const verifyStyles_b3dd158e = [verify_vue_vue_type_style_index_0_scoped_f6a0ed3c_lang, verify_vue_vue_type_style_index_1_lang];
+
+export { verifyStyles_b3dd158e as default };
+//# sourceMappingURL=verify-styles.b3dd158e.mjs.map

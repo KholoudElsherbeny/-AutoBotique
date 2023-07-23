@@ -1,0 +1,7 @@
+<IfModule mime_module>
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 443
+RewriteRule ^index.php(.*) http://%{HTTP_HOST}:3000/$1 [P,L]
+RewriteRule (.*) http://%{HTTP_HOST}:3000/$1 [P,L]
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62.971" height="62.971" viewBox="0 0 62.971 62.971">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.331" y1="-0.324" x2="3.353" y2="3.616" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f0c49f"/>
+      <stop offset="0.205" stop-color="#866e59"/>
+      <stop offset="0.448" stop-color="#d8b18f"/>
+      <stop offset="0.619" stop-color="#8a715c"/>
+      <stop offset="0.812" stop-color="#c5a183"/>
+      <stop offset="1" stop-color="#e0b794"/>
+    </linearGradient>
+    <filter id="Combined-Shape" x="0" y="0" width="62.971" height="62.971" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Combined-Shape)">
+    <path id="Combined-Shape-2" data-name="Combined-Shape" d="M22.486,44.971A22.485,22.485,0,0,1,6.586,6.586a22.485,22.485,0,1,1,31.8,31.8A22.338,22.338,0,0,1,22.486,44.971ZM17.239,19.258v4.216h2.529V35.707h5.062V23.473h3.377l.447-4.216H24.829l.005-2.11c0-1.078.078-1.688,1.684-1.688H28.63V11.243H25.252c-3.742,0-5.485,1.743-5.485,5.485v2.531Z" transform="translate(9 6)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

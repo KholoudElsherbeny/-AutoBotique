@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45.711" height="45.711" viewBox="0 0 45.711 45.711">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.331" y1="-0.324" x2="3.353" y2="3.616" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f0c49f"/>
+      <stop offset="0.205" stop-color="#866e59"/>
+      <stop offset="0.448" stop-color="#d8b18f"/>
+      <stop offset="0.619" stop-color="#8a715c"/>
+      <stop offset="0.812" stop-color="#c5a183"/>
+      <stop offset="1" stop-color="#e0b794"/>
+    </linearGradient>
+    <filter id="Path_116" x="0" y="0" width="45.711" height="45.711" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_206" data-name="Group 206" transform="translate(-458.219 -783.864)">
+    <g id="golden_clock_icon" transform="translate(467.219 789.864)">
+      <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Path_116)">
+        <path id="Path_116-2" data-name="Path 116" d="M17.217,3.375A13.855,13.855,0,1,0,31.086,17.23,13.851,13.851,0,0,0,17.217,3.375Z" transform="translate(5.63 2.63)" fill="url(#linear-gradient)"/>
+      </g>
+      <path id="Path_117" data-name="Path 117" d="M18.616,10.687H16.538V19l7.274,4.363,1.039-1.705-6.235-3.7Z" transform="translate(-4.068 -3.76)"/>
+    </g>
+  </g>
+</svg>

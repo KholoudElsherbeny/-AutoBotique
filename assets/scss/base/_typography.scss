@@ -1,0 +1,50 @@
+// Start:: Define English Font Faces
+@font-face {
+  font-family: $light_font;
+  src: url('~/assets/fonts/en/Inter-Light.ttf');
+}
+
+@font-face {
+  font-family: $regular_font;
+  src: url('~/assets/fonts/en/Inter-Regular.ttf');
+}
+
+@font-face {
+  font-family: $medium_font;
+  src: url('~/assets/fonts/en/Inter-Medium.ttf');
+}
+
+@font-face {
+  font-family: $semi_bold_font;
+  src: url('~/assets/fonts/en/Inter-SemiBold.ttf');
+}
+
+@font-face {
+  font-family: $bold_font;
+  src: url('~/assets/fonts/en/Inter-Bold.ttf');
+}
+
+// End:: Define English Font Faces
+
+// Start:: Define Arabic Font Faces
+@font-face {
+  font-family: $arabic_light_font;
+  src: url('~/assets/fonts/ar/Tajawal-Light.ttf');
+}
+
+@font-face {
+  font-family: $arabic_regular_font;
+  src: url('~/assets/fonts/ar/Tajawal-Regular.ttf');
+}
+
+@font-face {
+  font-family: $arabic_medium_font;
+  src: url('~/assets/fonts/ar/Tajawal-Medium.ttf');
+}
+
+@font-face {
+  font-family: $arabic_bold_font;
+  src: url('~/assets/fonts/ar/Tajawal-Bold.ttf');
+}
+
+// End:: Define Arabic Font Faces

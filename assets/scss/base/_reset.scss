@@ -1,0 +1,41 @@
+// ********** Reset Default List Styles
+ul,
+ol {
+  margin: 0 !important;
+  padding: 0 !important;
+  li {
+    list-style: none;
+  }
+}
+// ********** Reset Default List Styles
+a {
+  text-decoration: none;
+  color: white;
+}
+
+body {
+  width: 100vw;
+  overflow-x: hidden;
+  min-height: 100vh !important;
+  background: $main_bgClr !important;
+  color: $whiteColor;
+  #__nuxt {
+    height: 100%;
+  }
+}
+
+button {
+  background: none;
+  border: none;
+  outline: none;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}

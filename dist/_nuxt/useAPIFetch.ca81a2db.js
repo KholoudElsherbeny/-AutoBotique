@@ -1,0 +1,1 @@
+import{c as s,d as t}from"./entry.292f65b0.js";import{a as o}from"./fetch.2ec56229.js";const l=(c,e={})=>{const n=s(),a=t();return e.baseURL=n.public.baseURL,e.headers={Accept:"application/json","Content-Type":"application/json",lang:a.locale.value,"Accept-Language":a.locale.value},o(c,e,"$uCiByLDzDw")};export{l as u};

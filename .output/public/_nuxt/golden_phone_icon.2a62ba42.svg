@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42.99" height="42.99" viewBox="0 0 42.99 42.99">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.331" y1="-0.324" x2="3.353" y2="3.616" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f0c49f"/>
+      <stop offset="0.205" stop-color="#866e59"/>
+      <stop offset="0.448" stop-color="#d8b18f"/>
+      <stop offset="0.619" stop-color="#8a715c"/>
+      <stop offset="0.812" stop-color="#c5a183"/>
+      <stop offset="1" stop-color="#e0b794"/>
+    </linearGradient>
+    <filter id="golden_phone_icon" x="0" y="0" width="42.99" height="42.99" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#golden_phone_icon)">
+    <path id="golden_phone_icon-2" data-name="golden_phone_icon" d="M24.277,17.659,18.81,15.316a1.171,1.171,0,0,0-1.367.337l-2.421,2.958A18.091,18.091,0,0,1,6.374,9.963L9.332,7.542a1.168,1.168,0,0,0,.337-1.367L7.326.708A1.179,1.179,0,0,0,5.984.03L.908,1.2A1.171,1.171,0,0,0,0,2.343,22.645,22.645,0,0,0,22.647,24.99a1.171,1.171,0,0,0,1.142-.908l1.171-5.076a1.186,1.186,0,0,0-.684-1.347Z" transform="translate(9 6)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
